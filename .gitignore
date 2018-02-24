@@ -64,3 +64,5 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+#Project specifics
+version.gradle
