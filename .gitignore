@@ -1,8 +1,9 @@
 *.iml
 .gradle
+/paths.gradle
+.DS_Store
+*.aar
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
 /captures
@@ -58,6 +59,7 @@ captures/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+firebase.xml
 
 # Freeline
 freeline.py
